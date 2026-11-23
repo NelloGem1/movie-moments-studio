@@ -1,0 +1,7 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_intro.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_steve.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_thor.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_xmen.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_wakanda.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_return.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outro.mp4'

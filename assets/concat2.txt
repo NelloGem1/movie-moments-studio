@@ -1,0 +1,7 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_intro2.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_core.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_new.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_xmen.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_ff.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_doom.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outro2.mp4'

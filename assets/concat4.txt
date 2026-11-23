@@ -1,0 +1,6 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_intro4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_who.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_rdj.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_powers.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_stakes.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outro4.mp4'

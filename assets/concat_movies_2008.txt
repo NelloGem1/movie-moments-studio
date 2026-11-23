@@ -1,0 +1,6 @@
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_im.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_tdk.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_walle.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_kungfu.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_indiana.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y08_hulk.mp4.mp4'

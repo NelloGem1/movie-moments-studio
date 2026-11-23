@@ -1,0 +1,25 @@
+# Secrets - NEVER upload
+client_secret*.json
+token*.json
+*.env
+
+# Videos - too large for git
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.webm
+trailers_dl/
+_archive_downloads_json/
+
+# Junk
+__pycache__/
+*.pyc
+*.log
+*.pid
+*.lock
+*.flag
+node_modules/
+.venv/
+venv/
+*.bin

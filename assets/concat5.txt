@@ -1,0 +1,5 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_intro5.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_date.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_plot.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_expect.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outro5.mp4'

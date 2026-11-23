@@ -1,0 +1,6 @@
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_avatar.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_startrek.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_sherlock.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_hangover.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_up.mp4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/edit_y09_2012.mp4.mp4'

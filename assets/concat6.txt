@@ -1,0 +1,5 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_introD.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_story.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_cast.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_villain.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outroD.mp4'

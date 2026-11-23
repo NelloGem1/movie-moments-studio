@@ -1,0 +1,6 @@
+file 'C:/Users/neilh/youtube-tool/assets/seg_intro3.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_theory1.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_theory2.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_theory3.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_verdict.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/seg_outro3.mp4'

@@ -1,0 +1,6 @@
+file 'C:/Users/neilh/youtube-tool/assets/sa0.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/sa1.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/sa2.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/sa3.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/sa4.mp4'
+file 'C:/Users/neilh/youtube-tool/assets/sa5.mp4'
